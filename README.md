@@ -1,14 +1,6 @@
 # Fruit Stand
-This is a short description about our app.
-
-## Features
-Short description
-
-### Feature 1
-Short description
-
-### Feature 2
-Short description
+This is a fruit stand app in which the user begins with $100 and can buy whichever
+fruits they desire for the current price. The current price will update randomly every 15 seconds and the user's inventory and average price will update according to how many pieces of fruit they bought and at what price. The current price will never go below $0.50 or above $9.99.
 
 # Authors
 - Barrett Amsrud
